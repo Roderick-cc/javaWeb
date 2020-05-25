@@ -1,0 +1,16 @@
+{
+  "docs": {
+    "java": [
+      "doc1"
+    ],
+    "servlet": [
+      "doc.2"
+    ]
+  },
+  "docs-other": {
+    "First Category": [
+      "doc4",
+      "doc5"
+    ]
+  }
+}
