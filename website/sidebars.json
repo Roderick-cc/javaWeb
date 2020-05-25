@@ -1,16 +1,18 @@
 {
   "docs": {
-    "java": [
-      "doc1"
-    ],
-    "servlet": [
-      "doc.2"
+    "java基础": [
+      "doc1",
+      "doc.1",
+      "doc.2",
+      "doc.3",
+      "doc.4",
+      "doc.5",
+      "doc.6"
     ]
+   
   },
   "docs-other": {
     "First Category": [
-      "doc4",
-      "doc5"
     ]
   }
 }

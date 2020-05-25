@@ -5,35 +5,45 @@
     "previous": "Previous",
     "tagline": "BiuBiu~~",
     "docs": {
+      "doc.1": {
+        "title": "servle&http&req",
+        "sidebar_label": "servle&http&req"
+      },
       "doc.2": {
+        "title": "response",
+        "sidebar_label": "response"
+      },
+      "doc.3": {
+        "title": "cookie&session",
+        "sidebar_label": "cookie&session"
+      },
+      "doc.4": {
+        "title": "JSTL",
+        "sidebar_label": "JSTL"
+      },
+      "doc.5": {
         "title": "Filter&Listener",
         "sidebar_label": "Filter&Listener"
+      },
+      "doc.6": {
+        "title": "JSON",
+        "sidebar_label": "JSON"
       },
       "doc1": {
         "title": "说明"
       },
-      "doc2": {
-        "title": "document number 2"
-      },
-      "doc3": {
-        "title": "This is document number 3"
-      },
-      "doc4": {
-        "title": "Other Document"
-      },
-      "doc5": {
-        "title": "Fifth Document"
+      "test": {
+        "title": "说明a",
+        "sidebar_label": "aa"
       }
     },
     "links": {
       "Docs": "Docs",
-      "API": "API",
       "Help": "Help",
       "Blog": "Blog"
     },
     "categories": {
-      "java": "java",
-      "servlet": "servlet",
+      "java基础": "java基础",
       "First Category": "First Category"
     }
   },
