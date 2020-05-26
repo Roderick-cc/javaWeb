@@ -29,6 +29,9 @@
         "title": "JSON",
         "sidebar_label": "JSON"
       },
+      "all": {
+        "title": "all"
+      },
       "doc1": {
         "title": "说明"
       },
